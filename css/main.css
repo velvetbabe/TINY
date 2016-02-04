@@ -1,0 +1,166 @@
+
+.container-fluid{
+   background-color:#FCCE09;
+   height:600px;
+   width:1400px;
+   top:200px;
+}
+.hashtag{
+	margin-top:100px;
+}
+.orangebox{
+	background-color:#FCBA43;
+	width:200px;
+	height:60px;
+	top:10px; 
+	margin-top:70px;
+	position: relative;
+	margin-left:100px;
+	z-index:
+}
+.orangebox p{
+	top:15px;
+	margin-left:-20px;
+	color:white;
+	font-size:25px;
+	bottom:10px;
+	left:70px;
+	position: relative;
+	border-radius:8px;
+	text-transform: uppercase;
+}
+.orangebox:hover{
+	background-color:pink;
+}
+.whitebox1 h1{
+ color:#848381;
+ margin-top: 10px;
+ margin-left: 10px;
+}
+.whitebox1 p{
+color:#DED8D5;
+margin-top: 10px;
+ margin-left: 10px;
+}
+
+.whitebox2 h1{
+color:#848381;
+}
+.whitebox2 p{
+color:#DED8D5;
+}
+.navegador li{
+	list-style: none;
+	position: relative;
+	display: inline-block;
+	border-radius:6px;
+    top:-86px;
+    left:900px;
+   
+}
+
+a:hover{
+	background-color:pink;
+}
+
+ .navegador a{
+	text-decoration:none;
+	color:white;
+	font-size:18px;
+	text-transform:uppercase;
+    padding: 0px;
+    margin-top:500px;
+    margin-right:16px;
+}
+
+.texto h1{
+
+	margin-top:400px;
+	position: relative;
+	z-index: 99;
+	margin-left:620px;
+	color:white;
+	font-size:50px;
+	top:-290px;
+	left:-450px;
+}
+.texto p{
+	margin-top:-290px;
+	left:240px;
+	position: relative;
+	color:white;
+	z-index:99;
+	position: relative;
+}
+.container2-fluid{
+	background-color:#c0afaf;
+	width:1400px;
+	height:950px;
+	position: relative;
+}
+.whitebox1{
+	width:300px;
+	height:400px;
+	background-color:white;
+	position: relative;
+    display: inline-block;
+	margin-top: 60px;
+	margin-left:200px;
+  
+}
+.whitebox2{
+	width:300px;
+	height:400px;
+	background-color:white;
+	position: relative;
+	display: inline-block;
+	margin-top: 60px;
+	margin-left:200px;
+
+}
+.yellowb{
+	background-color:#FBB941;
+	color:white;
+	text-transform:uppercase;
+	width:80px;
+	height:40px;
+	border-radius:4px;
+	margin-top:-20px;
+	left:43px;
+	top:23px;
+	position: relative;
+}
+.yellowb p{
+	text-align: center;
+	top:12px;
+	position: relative;
+	font-size:11px;
+}
+.whitebox1 img{
+	width:200px;
+	height:150px;
+	margin-left:44px;
+	margin-top:25px;
+}
+.whitebox2 img{
+	width:200px;
+	height:150px;
+	margin-left:44px;
+	margin-top:25px;
+}
+.container3-fluid{
+
+   height:200px;
+   width:1400px;
+   background-color:#262624;
+}
+footer img{
+	width:20px;
+	height:20px;
+}
+footer p{
+	font-family: arial;
+	color: white;
+	margin-top:60px;
+	margin-left: 60px;
+}
